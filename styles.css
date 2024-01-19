@@ -1,6 +1,23 @@
 .navbar .my-network{
     width: 87px;
 }
+.linkedinLogo{
+    width: 30px;
+    height: 24px;
+}
+.profileImage{
+width: 72px;
+border-radius: 50%;
+height: 72px;
+}
+body{
+    background-color: #bbb;
+}
+
+
+
+
+
 img.nav-arrow{
     width: 1rem;
     height: 1rem;
@@ -53,7 +70,7 @@ span.for-business{
     border-top-right-radius: 0.8rem;
     border-top-left-radius: 0.8rem;
 }
-.contentHome img.profileImage{
+/* .contentHome img.profileImage{
     background-color: #fff;
     margin: -38px auto 1.2rem;
     border: 2px solid #fff;
@@ -62,7 +79,7 @@ span.for-business{
     box-sizing: border-box;
     background-clip: content-box;
     border-radius: 50%;
-}
+} */
 .contentHome .border{
     background-color: white;
 }
@@ -77,7 +94,7 @@ span.for-business{
     font-size: 10px;
     color: rgb(0 0 0 / 60%);
 }
-.profileOptions{
+.borderTop{
     border-top: 1px solid rgb(140 140 140 / 20%);
 }
 .pv3{
